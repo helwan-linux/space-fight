@@ -16,7 +16,7 @@ build() {
 }
 
 package() {
-  cd "$srcdir/space-fight-main"
+  cd "$srcdir/space-fight-main/hel-space-fight"
 
   # انسخ ملفات اللعبة
   install -d "$pkgdir/usr/share/$pkgname"
