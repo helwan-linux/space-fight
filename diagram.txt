@@ -1,0 +1,26 @@
+https://github.com/helwan-linux/space-fight
+
+📁 hel-space-fight/
+├── 📁 assets
+│   ├── 📄 armored_enemy.png
+│   ├── 📄 background.png
+│   ├── 📄 bullet.png
+│   ├── 📄 bullet.wav
+│   ├── 📄 enemy.png
+│   ├── 📄 explosion.png
+│   ├── 📄 explosion.wav
+│   ├── 📄 fast_enemy.png
+│   ├── 📄 game_data.json
+│   ├── 📄 heart.png
+│   ├── 📄 icon.png
+│   ├── 📄 music.wav
+│   ├── 📄 player.png
+│   ├── 📄 powerup.png
+│   └── 📄 test_sfx.wav
+├── 📄 entities_pygame.py
+├── 📄 game_core_pygame.py
+├── 📄 game_data.json
+├── 📄 main.py
+├── 📄 main_pygame.py
+├── 📄 screens_pygame.py
+└── 📄 utils.py
